@@ -4,6 +4,7 @@
 A decentralized application for minting NFT-based loyalty cards on the [Sui Blockchain](https://sui.io). This DApp demonstrates how businesses can use blockchain technology to issue immutable, secure, and unique digital loyalty cards.
 
 ---
+Link for the application : [SUI LOYALTY DAAP ](https://sui-workshop.vercel.app/)
 
 ## 📌 Introduction
 
